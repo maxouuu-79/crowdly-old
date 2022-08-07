@@ -3,7 +3,7 @@
 
 heyyy, je construis un site web grâce à des langages informatiques (HTML, CSS, JS & PHP). En fait, je le fais depuis le 3 mars 2021. C'est à cette date que j'ai fait mon premier site.
 
-# 💥 Un réseau social 100% <u>open source
+# 💥 Un réseau social 100% open source
 La communauté open source est le 💗 cœur de Crowdly et fondamentale pour la façon dont je construis des sites/applications aujourd'hui. Constatez par vous-même :
 
 · j'ai fait au total de 8 langages informatiques
@@ -11,7 +11,7 @@ La communauté open source est le 💗 cœur de Crowdly et fondamentale pour la 
 · des nouvelles mises à jour toutes les semaines sur mon site
 · un réseau social qui protège davantage votre vie privée
 · un site rapide comme ✨ Flash McQueen ✨
-· chaque semaine, je crée une nouvelle version  🏄 et je publie sur GitHub.</p>
+· chaque semaine, je crée une nouvelle version  🏄 et je publie sur GitHub.
 
 Maintenant que nous parlons des choses importantes ☝️, contribuez-vous à l'open source ? Oui ? Ok, tu es génial ! 🎸 
 Si non, nous pouvons vous aider à vous lancer ! Les logiciels open source sont réalisés par des gens comme moi. 
