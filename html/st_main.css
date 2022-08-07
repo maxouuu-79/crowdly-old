@@ -1,0 +1,87 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.menu {
+  display: flex;              /* Transformation en flexbox */
+  padding:0;                  /* Suppression des marges internes */
+  background-color: #ccc;     /* Ajout de la couleur d'arrière-plan */
+}
+.menu li {
+  list-style-type: none ;       /* Suppression des puces */
+}
+.menu a {
+  display:block;                /* Transformation en block */
+  min-width: 120px;             /* Largeur minimale des liens */
+}
+.menu a {
+  display:block;                /* Transformation en block */
+  min-width: 120px;             /* Largeur minimale des liens */   
+  
+  margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
+  padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
+  text-align: center;           /* Centrage du texte */   
+  background-color: #ff0000;    /* Couleur d'arrière-plan */
+  color: #fff;                  /* Couleur du texte */
+  text-decoration: none;        /* Suppression du soulignement */
+  border: 1px solid #fff;       /* Ajout d'une bordure */
+  border-radius: 4px;           /* Arrondis des bordures */
+}
+.menu {
+  display: flex;              /* Transformation en flexbox */
+  padding:0;                  /* Suppression des marges internes */
+  background-color: #ff0000;     /* Ajout de la couleur d'arrière-plan */
+  justify-content: center     /* Alignements des liens dans le menu */
+}
+.menu a:hover {
+  background-color: #d45d5d;
+  color: #000000;
+  border-color: #000000;
+}
+.menu a {
+  display:block;                /* Transformation en block */
+  min-width: 120px;             /* Largeur minimale des liens */   
+  
+  margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
+  padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
+  text-align: center;           /* Centrage du texte */   
+  background-color: #ff0000;    /* Arrière-plan */
+  color: #fff;                  /* Couleur du texte */
+  text-decoration: none;        /* Suppression du soulignement */
+  border: 1px solid #fff;       /* Ajout d'une bordure */
+  border-radius: 4px;           /* Arrondis des bordures */
+  transition: all 1s ;          /* Ajout des effets de transition */
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+  background-color: #000000;
+  color: #ffffff;
+  }
+  a {
+  color: #5fa9ee;
+  }
+  img {
+  filter: grayscale(20%);
+  }
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto", sans-serif;
+  }
+  
+ 
+
+    footer {
+      display: flex;
+      justify-content: center;
+      padding: 5px;
+      background-color: #303030;
+      color: rgb(0, 0, 0);
+  }
