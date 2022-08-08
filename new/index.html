@@ -18,9 +18,16 @@
 		<nav>
 			<h1 id="logo">Crowdly</h1>
 			<ul>
-				<li><a href="#">Bientôt</a></li>
-				<li><a href="#">Bientôt</a></li>
-				<li><a href="#">Bientôt</a></li>
+				<li><a href="#" onclick="myFunction()">Bientôt</a></li>
+				<li><a href="#" onclick="myFunction()">Bientôt</a></li>
+				<li><a href="#" onclick="myFunction()">Bientôt</a></li>
+
+                <script>
+                    function myFunction() {
+                      alert("Attendez, cette fonctionalité va bientôt sortir");
+                    }
+                    </script>
+                    
 			</ul>
 		</nav>
 	</header>
@@ -152,6 +159,37 @@ Oh, et au fait, nous recrutons toujours des personnes talentueuses et passionné
             <br>
             <br>
             <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <h4>Tu veux jouer avec moi?</h4>
+
+            <button onclick="myFunction()">Oui</button>
+            
+            <p id="demo"></p>
+            
+            <script>
+            function myFunction() {
+              let text;
+              let person = prompt("Veuillez entrer votre nom :", "Harry Potter");
+              if (person == null || person == "") {
+                text = "L'utilisateur a annulé l'invite.";
+              } else {
+                 text = " Bonjour " + person + "! Comment allez-vous aujourd'hui ?";
+              }
+              document.getElementById("demo").innerHTML = text;
+            }
+            </script>
+
+
+                <br>
+                <br>
+                <br>
+                <br>
 
         <div align='middle'><body>
             <div style="width: 900px;	padding-top:10px; padding-bottom:10px;border : 3px solid #000000; text-align: center;background: #ffffff;">
