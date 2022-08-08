@@ -106,3 +106,69 @@ body {
   const darkmode =  new Darkmode();
 darkmode.toggle();
 console.log(darkmode.isActivated()) // will return true
+
+/* global css*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+h2 {
+    font-size: 4.8rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+h4,
+h5 {
+    font-size: 2.8rem;
+}
+
+li {
+    font-size: 2rem;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* header */
+
+.main-head {
+    background: #0a2b19;
+    color: #ffffff;
+}
+
+nav {
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    padding: 2rem;
+}
+
+nav ul {
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+#logo {
+    flex: 2 1 40rem;
+}
+
