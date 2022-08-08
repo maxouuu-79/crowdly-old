@@ -36,7 +36,9 @@ Oh, et au fait, nous recrutons toujours des personnes talentueuses et passionné
 <br>
 
 Crowdly est construit à l'aide de puissantes 🔨 applications pour développer ce site :
+<br>
 · Visual Studio Code
+<br>
 · GitHub
 
 <br>
