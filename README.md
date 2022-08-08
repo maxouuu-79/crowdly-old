@@ -9,10 +9,15 @@ heyyy, je construis un site web grâce à des langages informatiques (HTML, CSS,
 La communauté open source est le 💗 cœur de Crowdly et fondamentale pour la façon dont je construis des sites/applications aujourd'hui. Constatez par vous-même :
 
 · j'ai fait au total de 11 langages informatiques
+<br>
 · certifiée par GitHub
+<br>
 · des nouvelles mises à jour toutes les semaines sur mon site
+<br>
 · site 100% open-souce, respectueux de la vie privée
+<br>
 · un site rapide comme ✨ Flash McQueen ✨
+<br>
 · chaque semaine, je crée une nouvelle version 🏄 et je publie sur GitHub
 
 Maintenant que nous parlons des choses importantes ☝️, contribuez-vous à l'open source ? Oui ? Ok, tu es génial ! 🎸
