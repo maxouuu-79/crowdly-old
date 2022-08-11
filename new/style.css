@@ -111,3 +111,24 @@ button {
     padding: 2rem;
   }
 }
+
+/* Styles for light theme */
+.theme-light {
+  background: rgb(255, 255, 255);
+  color: #000000;
+}
+
+/* Styles for dark theme */
+.theme-dark {
+  background: rgb(0, 0, 0);
+  color: #ffffff;
+}
+
+.emoji {
+  isolation: isolate;
+}
+
+/* elements that create their a stacking context are automatically isolated */
+.footer {
+  z-index: 1;
+}
