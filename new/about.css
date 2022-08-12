@@ -156,9 +156,8 @@ details[open] summary {
   margin-bottom: 0.5em;
 }
 
-/* images border-radius */
-img {
-  border-radius: 1%;
+/* zone de texte */
+.border {
+  border: 1px solid black;
+  padding: 5px;
 }
-
-/* texte */
