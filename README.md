@@ -17,8 +17,6 @@ La communauté open source est le 💗 cœur de Crowdly et fondamentale pour la 
 · site 100% open-souce, respectueux de la vie privée
 <br>
 · un site rapide comme ✨ Flash McQueen ✨
-<br>
-· chaque semaine, je crée une nouvelle version 🏄 et je publie sur GitHub
 
 Maintenant que nous parlons des choses importantes ☝️, contribuez-vous à l'open source ? Oui ? Ok, tu es génial ! 🎸
 Si non, nous pouvons vous aider à vous lancer ! Les logiciels open source sont réalisés par des gens comme moi.
